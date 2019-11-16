@@ -1,0 +1,34 @@
+﻿E:\sofeware\visual studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\common.h(20): warning C4005: “MAXNN”: 宏重定义
+  f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\common.h(12): note: 参见“MAXNN”的前一个定义
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(143): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(175): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(186): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(210): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(240): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(343): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(370): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(375): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(382): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(386): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(389): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(394): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(477): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(480): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(489): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(501): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(534): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(546): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(580): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(622): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(625): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习资料\毕设\loa-读取输入（生成数据）\project_2\project1\main.cpp(778): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project1.vcxproj -> F:\学习资料\毕设\LOA-读取输入（生成数据）\Project_2\Debug\LOA.exe
